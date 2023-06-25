@@ -1,6 +1,7 @@
-@inproceedings{author20XXtitle,
-  title={Please cite me},
-  author={Author, First and Author, Second and Author, Third},
-  booktitle={Conference},
-  year={20XX}
+@misc{gossard2023arxiv,
+  title={eWand: A calibration framework for wide baseline frame-based and event-based camera systems},
+  author={Gossard, Thomas and Ziegler, Andreas and Kolmar, Levin and Tebbe, Jonas and Zell, Andreas},
+  year={2023},
+  archivePrefix={arXiv},
+  primaryClass={cs.RO}
 }
