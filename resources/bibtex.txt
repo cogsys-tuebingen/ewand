@@ -1,7 +1,8 @@
-@misc{gossard2023arxiv,
+@inproceedings{Gossard2023icra,
   title={eWand: A calibration framework for wide baseline frame-based and event-based camera systems},
+  url = {https://arxiv.org/pdf/2309.12685.pdf},
   author={Gossard, Thomas and Ziegler, Andreas and Kolmar, Levin and Tebbe, Jonas and Zell, Andreas},
-  year={2023},
-  archivePrefix={arXiv},
-  primaryClass={cs.RO}
+  booktitle = {2024 {International} {Conference} on {Robotics} and {Automation} ({ICRA})},
+  publisher = {IEEE},
+  year={2024},
 }
