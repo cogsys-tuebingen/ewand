@@ -27,9 +27,9 @@ Project: [See here](https://cogsys-tuebingen.github.io/ewand/)
 
 The code of this project is split into several packages:
 
-* Marker extrection from frame-based cameras (see below)
+* [Marker extrection from frame-based cameras](https://github.com/cogsys-tuebingen/ewand?tab=readme-ov-file#marker-extrection-from-frame-based-cameras)
 * [Marker extrection from event-based cameras](https://github.com/cogsys-tuebingen/eb_marker_extraction)
-* A calibration framework consuming the extracted marker positions and optimizing the cameras' intrinsics and extrinsics (see below)
+* [A calibration framework consuming the extracted marker positions and optimizing the cameras' intrinsics and extrinsics](https://github.com/cogsys-tuebingen/ewand?tab=readme-ov-file#calibration-framework)
 
 ### Marker extrection from frame-based cameras
 
