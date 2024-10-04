@@ -1,0 +1,25 @@
+%YAML:1.0
+camera_name: ext_frame_3.yaml
+image_width: 1280
+image_height: 1024
+camera_matrix: !!opencv-matrix
+  rows: 3
+  cols: 3
+  dt: d
+  data: [1269.689435142817, 0, 631.4859797042378, 0, 1269.676853992122, 508.2737111466326, 0, 0, 1]
+distortion_model: plumb_bob
+distortion_coefficients: !!opencv-matrix
+  rows: 1
+  cols: 5
+  dt: d
+  data: [-0.2129534, 0.2189005, -0.0006187037, -0.0001813293, -0.2058456]
+extrinsics:
+  rows: 3
+  cols: 4
+  dt: d
+  data: [-0.389769, -0.4141864, 0.8225143, -3331.472, 0.5937274, 0.5697249, 0.568244, -2042.174, -0.7039658, 0.7098331, 0.02385277, 3035.646]
+projection:
+  rows: 3
+  cols: 4
+  dt: d
+  data: [-937.9429, -76.85371, 1060.774, -2318338, 397.2511, 1084.526, 732.4049, -1046977, -0.7038143, 0.7099639, 0.02442715, 3031.488]

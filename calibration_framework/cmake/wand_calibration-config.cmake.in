@@ -1,0 +1,18 @@
+@PACKAGE_INIT@
+
+find_package(
+  OpenCV
+  COMPONENTS imgproc highgui video features2d core calib3d
+  REQUIRED)
+
+find_package(Eigen3 REQUIRED NO_MODULE) 
+
+find_package(Ceres REQUIRED)
+
+find_package(Boost COMPONENTS program_options REQUIRED)
+
+find_package(OpenMP REQUIRED)
+
+if(NOT TARGET wand_calibration::wand_calibration)
+    include(${CMAKE_CURRENT_LIST_DIR}/wand_calibration-targets.cmake)
+endif()
