@@ -3,11 +3,10 @@
 This is the code and the build instructions for the paper **eWand: A calibration framework for wide baseline frame-based and event-based camera systems**
 
 
-
-
 ## Citations
-=======
+
 This paper contains the code for the paper [eWand: A calibration framework for wide baseline frame-based and event-based camera systems](https://cogsys-tuebingen.github.io/ewand/).
+
 
 #### Citing
 
